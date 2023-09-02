@@ -1,5 +1,5 @@
-A válečným rykem a napřaženým raminkem vyrazíš ze skříně. Lupič
-v úleku přepadne přes postel a zamotá se do prostěradla.
-Vybíháš dolů po schodech a ven na ulici před dům.
+A valecnym rykem a naprazenym raminkem vyrazis ze skrine. Lupic
+v uleku prepadne pres postel a zamota se do prosteradla.
+Vybihas dolu po schodech a ven na ulici pred dum.
 
-Vyběhnout na ulici (../../pred-domem/ulice.txt)
+Vybehnout na ulici (../../pred-domem/ulice.txt)

@@ -1,5 +1,5 @@
-Hra Vetřelec
+Hra Vetrelec
 
-Vítejte v naší zbrusu nové hře „Vetřelec“.
+Vitejte v nasi zbrusu nove hre „Vetrelec“.
 
-Začít hrát (zacatek.txt)
+Zacit hrat (zacatek.txt)

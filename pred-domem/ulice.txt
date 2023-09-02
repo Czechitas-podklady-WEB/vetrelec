@@ -1,9 +1,9 @@
-Na ulici stojí lupičova škodovka s otevřeným kufrem.
+Na ulici stoji lupicova skodovka s otevrenym kufrem.
 
-1. Vydáš se k autu
+1. Vydas se k autu
 
 K autu (auto.txt)
 
-2. Běžíš po chodníku k sousedům
+2. Bezis po chodniku k sousedum
 
-K sousedům (sousedi.txt)
+K sousedum (sousedi.txt)

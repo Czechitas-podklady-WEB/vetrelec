@@ -1,11 +1,11 @@
-Tiše vystoupáš schody zpět nahoru. Jenže ouha, tvůj mobilní telefon
-leží na nočním stolku - vybitý. Nabíječku jsi samozřejmě zapomněl
-dole v obýváku. V tom slyšíš na schodech kroky.
+Tise vystoupas schody zpet nahoru. Jenze ouha, tvuj mobilni telefon
+lezi na nocnim stolku - vybity. Nabijecku jsi samozrejme zapomnel
+dole v obyvaku. V tom slysis na schodech kroky.
 
-1. Rychle se schováš do šatní skříně
+1. Rychle se schovas do satni skrine
 
 	Schovat se (skrin/ve-skrini.txt)
 
-2. Pohotově otevřeš okno a sešplháš před dům na ulici
+2. Pohotove otevres okno a sesplhas pred dum na ulici
 
-	Sešplhat na ulici (../pred-domem/ulice.txt)
+	Sesplhat na ulici (../pred-domem/ulice.txt)

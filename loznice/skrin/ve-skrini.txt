@@ -1,10 +1,10 @@
-Škvírkou mezi dveřmi pozoruješ, jak lupič vstupuje
-do ložnice. Co čert nechtěl, jde rovnou ke skříni.
+skvirkou mezi dvermi pozorujes, jak lupic vstupuje
+do loznice. Co cert nechtel, jde rovnou ke skrini.
 
-1. Bereš do ruky dřevěné ramínko a rozhodneš se pro rychlou akci
+1. Beres do ruky drevene raminko a rozhodnes se pro rychlou akci
 
-	Akce s ramínkem (akce.txt)
+	Akce s raminkem (akce.txt)
 
-2. Strachy se ti sevřou půlky a strnule vyčkáváš svého osudu
+2. Strachy se ti sevrou pulky a strnule vyckavas sveho osudu
 
 	Odevzdat se osudu (osud.txt)

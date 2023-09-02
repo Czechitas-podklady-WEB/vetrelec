@@ -1,5 +1,5 @@
-Ze sladkého spánku tě probudí podivný šramot. Zdá se, že se ozývá
-z obýváku v přízemí. Tiše otevřeš dveře ložnice a pokradmu scházíš
-schody dolů zkontrolovat situaci.
+Ze sladkeho spanku te probudi podivny sramot. Zda se, ze se ozyva
+z obyvaku v prizemi. Tise otevres dvere loznice a pokradmu schazis
+schody dolu zkontrolovat situaci.
 
-Přejít na schodiště (obyvak/schodiste.txt)
+Prejit na schodiste (obyvak/schodiste.txt)
